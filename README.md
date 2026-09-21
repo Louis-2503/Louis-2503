@@ -55,9 +55,13 @@ Disponible pour un stage de 14 à 16 semaines à partir du 15 février 2027.
 
 ## Projets universitaires
 
-- **Application web de gestion de fouilles archéologiques** (équipe de 4, 2025) — MySQL, HTML5, CSS, Python
-- **Application de gestion de librairie** (2025) — Java, JavaFX, MySQL
-- **Stratégie pour un jeu de Snake** (équipe de 3, 2025) — Python
+| Projet | Période | Description | Technologies |
+|---|---|---|---|
+| **Application web de gestion de fouilles archéologiques** | Sept. – Nov. 2025 | Application web pour une entreprise fictive : gestion des campagnes de fouilles, du personnel et des plateformes de fouille. Projet en équipe de 4. | `MySQL` `HTML5` `CSS` `Python` |
+| **Application de gestion de librairie** | Juin 2025 | Application de bureau pour une entreprise fictive de librairie, avec interface graphique et base de données. | `Java` `JavaFX` `MySQL` |
+| **Stratégie pour un jeu de Snake** | Janv. 2025 | Conception et implémentation d'un algorithme de jeu en équipe de 3. | `Python` |
+
+---
 
 ## Formation
 
